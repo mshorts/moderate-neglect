@@ -1,0 +1,24 @@
+# authors
+matt:
+  name: Matt
+  bio: >
+    Opinions expressed are moderately my own.
+  disqus_shortname: 
+  url:
+  avatar:
+
+erich:
+  Name: Erich
+  bio: >
+    Opinions expressed are neglectfully my own.
+  disqus_shortname: 
+  url:
+  avatar:
+
+brad:
+  Name: Brad
+  bio: >
+    I moderately neglect my opinions, but they are my own.
+  disqus_shortname: 
+  url:
+  avatar:
