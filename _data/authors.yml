@@ -8,7 +8,7 @@ matt:
   avatar:
 
 erich:
-  Name: Erich
+  name: Erich
   bio: >
     Opinions expressed are neglectfully my own.
   disqus_shortname: 
@@ -16,7 +16,7 @@ erich:
   avatar:
 
 brad:
-  Name: Brad
+  name: Brad
   bio: >
     I moderately neglect my opinions, but they are my own.
   disqus_shortname: 
